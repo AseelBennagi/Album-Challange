@@ -1,0 +1,1 @@
+In this challange a LinkedList and ArrayList were used to create albums and songs and then you can add these songs in a playlist.
